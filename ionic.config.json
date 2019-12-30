@@ -1,5 +1,7 @@
 {
   "name": "mardi-todo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
